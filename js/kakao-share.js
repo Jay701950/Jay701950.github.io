@@ -1,6 +1,6 @@
 // 1. SDK 초기화 영역
 // 필수: 카카오 디벨로퍼스(https://developers.kakao.com)에서 발급받은 실제 JavaScript 키로 변경해주세요.
-const KAKAO_JS_KEY = '여기에_JavaScript_키를_입력하세요';
+const KAKAO_JS_KEY = '9a1fd73b6d7c7986025eb54e4bd35ffe';
 
 // SDK 연결 및 키 검증, 중복 초기화 방지
 if (!Kakao.isInitialized()) {
